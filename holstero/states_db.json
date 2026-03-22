@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-20",
+  "lastUpdated": "2026-03-22",
   "source": "https://gunlaws.uslawshield.com/states/",
-  "totalStatesScraped": 50,
+  "totalStatesScraped": 51,
   "states": [
     {
       "state": "Alabama",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -151,7 +151,7 @@
     },
     {
       "state": "Alaska",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -289,7 +289,7 @@
     },
     {
       "state": "Arizona",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -436,7 +436,7 @@
     },
     {
       "state": "Arkansas",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -583,7 +583,7 @@
     },
     {
       "state": "California",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -726,7 +726,7 @@
     },
     {
       "state": "Colorado",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -877,7 +877,7 @@
     },
     {
       "state": "Connecticut",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1023,7 +1023,7 @@
     },
     {
       "state": "Delaware",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1173,7 +1173,7 @@
     },
     {
       "state": "Florida",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1319,7 +1319,7 @@
     },
     {
       "state": "Georgia",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1466,7 +1466,7 @@
     },
     {
       "state": "Hawaii",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1613,7 +1613,7 @@
     },
     {
       "state": "Idaho",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1754,7 +1754,7 @@
     },
     {
       "state": "Illinois",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1902,7 +1902,7 @@
     },
     {
       "state": "Indiana",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2050,7 +2050,7 @@
     },
     {
       "state": "Iowa",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2198,7 +2198,7 @@
     },
     {
       "state": "Kansas",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2317,7 +2317,7 @@
     },
     {
       "state": "Kentucky",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2466,7 +2466,7 @@
     },
     {
       "state": "Louisiana",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2605,11 +2605,11 @@
     },
     {
       "state": "Maine",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
-        "redFlagLaw": false,
+        "redFlagLaw": true,
         "carryInAlcoholEstablishmentsAllowed": true,
         "openCarryAllowed": true,
         "noWeaponsSignsEnforced": true,
@@ -2735,7 +2735,7 @@
       },
       "redFlagOrders": {
         "description": "Emergency Risk Orders (or \"Red Flag Laws\") enable rapid legal action when someone is believed to be at significant risk of harming themselves or others with a firearm. Generally speaking, these controversial laws allow law enforcement to seek a court order to temporarily confiscate firearms from the individual and prevent them from purchasing new ones while the order is in effect. The most robust laws also permit family members and others to file petitions.",
-        "allowed": false
+        "allowed": true
       },
       "useOfForce": {
         "definitions": {},
@@ -2749,8 +2749,98 @@
       "selfDefenseLimitations": ""
     },
     {
+      "state": "Maryland",
+      "lastUpdated": "2026-03-22",
+      "quickReference": {
+        "magazineCapacityRestrictions": true,
+        "constitutionalCarryAllowed": false,
+        "redFlagLaw": true,
+        "carryInAlcoholEstablishmentsAllowed": true,
+        "openCarryAllowed": false,
+        "noWeaponsSignsEnforced": false,
+        "nfaWeaponsAllowed": false,
+        "dutyToRetreat": "Yes",
+        "dutyToInformLawEnforcement": false,
+        "universalBackgroundChecks": true
+      },
+      "summary": {
+        "stateLawSummary": "Maryland's firearm law history has been shaped by a series of legislative measures and judicial rulings that reflect ongoing debates about gun rights and public safety. The state enacted its first comprehensive gun control law in 1972, which required handgun purchasers to obtain a permit, setting a precedent for stricter regulations. In 2013, the Firearm Safety Act was passed, introducing measures such as expanded background checks and restrictions on certain firearms, which were met with both support and opposition. A landmark Supreme Court case,New York Rifle & Pistol Assn.v. Bruen(2022), influenced the discourse around carry permits by holding for the first time the constitutional right to carry firearms in public.Brueneffectively ruled that states that operate under a \"may issue\" legal framework for permits was unconstitutional. This ruling impacted Maryland, which prior toBruenwas a \"shall issue\" state, which had been affirmed by Fourth Circuit prior toBrueninWoollard v Gallagher, 712 F.3d 865 (4th Cir. 2013). Following theBruendecision, then-Governor Larry Hogan directed state agencies to suspend the enforcement of the \"good and substantial reason\" in the permitting process. There continue to be a number of court challenges to Maryland carry permit laws postBruen."
+      },
+      "permitEligibility": {
+        "types": [],
+        "trainingRequirements": [],
+        "applicationProcess": [],
+        "description": "Maryland's wear and carry permits no longer require individuals to demonstrate a \"good and substantial reason\" to carry a handgun in public. That regulation had set a high bar for applicants, emphasizing a focus on public safety. The Firearm Safety Act of 2013 further tightened these requirements, including mandatory training and background checks for those seeking a permit. The Supreme Court decision inNew York State Rifle & Pistol Ass’n, Inc. v. Bruen(2022) ultimately compelled Maryland (and other similarly situated states) to reevaluate discretionary “may-issue” standards and caused the state to stop enforcing its \"good and substantial reason\" requirement. This evolving landscape reflects the ongoing dialogue surrounding gun rights and regulations in the state."
+      },
+      "permitlessCarryLaw": {
+        "allowed": false,
+        "description": "The terms “constitutional carry” and “permitless carry” refer to states that have laws allowing individuals to carry a loaded firearm in public without requiring a license or permit."
+      },
+      "reciprocity": {
+        "honorsOutOfStatePermits": false,
+        "statesThatHonorPermit": [],
+        "statesThatDoNotHonorPermit": [],
+        "statesThatRecognizeResidentPermitOnly": []
+      },
+      "preemption": {
+        "description": "State firearm preemption laws are statutes that prevent local governments from enacting or enforcing their own gun regulations that are more restrictive than state law. These laws ensure that firearm regulations remain consistent across the state, preventing a patchwork of different rules in various cities or counties."
+      },
+      "purchaseAndTransferLaws": {
+        "description": "When buying or selling a firearm, both federal and state laws must be followed. Under 18 U.S.C. § 922(a)(5), a private party may sell a firearm to a resident of the same state if two conditions are met: (1) the seller and buyer must be residents of the same state, and (2) the seller must not know or have reasonable cause to believe that the buyer is prohibited from receiving or possessing firearms under federal law, as outlined in 18 U.S.C. § 922(g). Additionally, a private seller may loan or rent a firearm to a resident of any state for temporary lawful sporting use, provided they meet the same condition of not knowing or having reason to believe the borrower is prohibited under federal law. In addition to federal law, state laws governing firearm sales must also be followed, as states may impose additional restrictions such as background checks, waiting periods, or bans on specific types of firearms.",
+        "permitRequiredToPurchase": false
+      },
+      "firearmClassifications": {
+        "classifications": [],
+        "accessoryRestrictions": {
+          "largeCapacityMagazines": {
+            "restricted": true,
+            "details": "Magazine capacity laws are designed to limit the number of rounds a firearm's magazine can hold, typically restricting it to a certain number of cartridges (e.g., 10 rounds or fewer). Some state laws restrict the amount of rounds that may be placed in a magazine at any given time, while others prevent the mere possession of unloaded magazines capable of accepting more than a certain number of rounds."
+          }
+        },
+        "description": "COMING SOON!"
+      },
+      "carryLaws": {
+        "methods": "Open carry and concealed carry refer to two distinct methods of carrying firearms in public. Open carry involves visibly carrying a firearm, typically in a holster, where it is easily seen by others. Concealed carry, on the other hand, involves carrying a firearm in a hidden manner, such as under clothing, so that it is not visible to others."
+      },
+      "prohibitedAreas": [
+        "Carrying a firearm into a place where firearms are prohibited by state or federal law is a common way for gun owners to find themselves in legal trouble",
+        "These places are known as “prohibited areas,” and they can vary greatly from state to state",
+        "Below you will find the list of the places where firearms are prohibited under this state’s laws",
+        "Keep in mind, in addition to these state prohibited areas, federal law adds additional places where firearms are prohibited",
+        "See the federal law section for a list of federal prohibited areas"
+      ],
+      "controlledSubstancesAndAlcohol": {
+        "description": "Most, but not all, states have laws in place that regulate possessing firearms while intoxicated, and individual states will define \"intoxicated\" differently. In addition to state law, federal law also prohibits the possession of a firearm by any person who is “an unlawful user of or addicted to any controlled substance” as defined by the Controlled Substances Act (“CSA”). There are five different schedules of controlled substances regulated by the CSA, scheduled as I–V. The types of drugs that are regulated range from heroin as a Schedule I substance, to Robitussin AC as a Schedule V substance. Even a gun owner that is prescribed a scheduled drug by a physician can be in legal jeopardy if it is proven that the drug was taken in a frequency or manner other than was prescribed. Although legal for medicinal or recreational use in many states, marijuana remains classified as a scheduled controlled substance under the federal Controlled Substances Act (CSA), codified as 21 U.S.C. § 812. On May 16, 2024, the U.S. Department of Justicepublished a proposed rule changethat would reclassify marijuana from schedule I to a schedule III drug. It is anticipated this rescheduling will formally occur in 2024 or 2025. Unlike schedule I drugs, schedule III drugs may be lawfully prescribed by a licensed physician, and thus the possession of these prescribed drugs does not make the possession of a firearm inherently unlawful the way possession of a schedule I substance would. This means that the rescheduling of marijuana to a schedule III drug would finally allow for the lawful use, possession and purchase of firearms by prescription marijuana users. However, if it is determined that the marijuana is possessed without a prescription, is used in a manner that is not prescribed, or that the individual with the prescription is addicted to marijuana, possession of a firearm would still be a federal offense. Federal law states that a person is addicted to a controlled substance when they have “lost the power of self-control with reference to the use of controlled substance; and any person who is a current user of a controlled substance in a manner other than as prescribed by a licensed physician.” 27 C.F.R. § 478.11, 18 U.S.C. §922(g)(3)"
+      },
+      "vehicleAndTransportLaws": {
+        "transportationRules": "Permit reciprocity and other differences between state regulation of firearms can create a difficult landscape for firearm owners to navigate while transporting firearms interstate. In 1968, and again in 1986, Congress set out to help hunters, travelers, and other firearm owners who were getting arrested for merely transporting firearms through restrictive states. To help simplify the complex web of state firearm laws, Congress passed the 1986 Firearm Owners Protection Act (“FOPA”) as part of Senate Bill 2414. The specific “safe harbor” provision of the law, often referred to as the “McClure-Volkmer Rule,” provides some protection for gun owners transporting firearms through restrictive states, subject to strict requirements. This federal law is covered in more detail in the federal law section of this database. Beyond federal law, the laws of each state will impose additional restrictions, or protections, related to transporting firearms in a vehicle."
+      },
+      "storageRequirements": {
+        "details": "Some states have laws that require gun owners to take specific measures to secure their firearms, especially in households with children. Many of these state laws mandate that guns be stored in locked containers or safes when not in use. These laws often impose penalties for failing to secure firearms, particularly if they are accessed by unauthorized individuals, such as minors."
+      },
+      "otherWeaponsRestrictions": [],
+      "policeEncounter": {
+        "details": "Some states impose a legal duty upon permit holders that requires them to inform a police officer of the presence of a firearm whenever they have an official encounter, such as a traffic stop. These states are called “duty to inform” states. In these states you are required by law to immediately, and affirmatively, tell a police officer if you have a firearm in your possession. In addition to “duty to inform states,” some states have “quasi duty to inform” laws. These laws generally require that a permit holder have his/her permit in their possession and surrender it upon the request of an officer. The specific requirements of these laws will vary from state to state. The final category of states is classified as “no duty to inform” states. In these states there are no laws that require a gun owner to affirmatively inform an officer if they have a firearm. Additionally, there are also generally no laws that require you to respond or provide a permit if asked about the presence of a firearm. Maryland is reported as being a quasi duty to inform state, which means that although you are not affirmatively required to inform an officer of the presence of your firearm, you are required to have your permit in your possession and supply it to an officer upon demand.",
+        "mustInform": false
+      },
+      "redFlagOrders": {
+        "description": "Emergency Risk Orders (or \"Red Flag Laws\") enable rapid legal action when someone is believed to be at significant risk of harming themselves or others with a firearm. Generally speaking, these controversial laws allow law enforcement to seek a court order to temporarily confiscate firearms from the individual and prevent them from purchasing new ones while the order is in effect. The most robust laws also permit family members and others to file petitions.",
+        "allowed": true
+      },
+      "useOfForce": {
+        "definitions": {},
+        "againstPersons": "The legal use of force, including deadly force, is regulated by state law. There are no federal laws that dictate when you can use force in self-defense in all states. As such, it is essential to become familiar with individual state laws.",
+        "againstOthers": "Defense of third party laws allow an individual to use force, including deadly force, to protect another person from harm. These laws generally permit intervention if the third party would have had the right to use force in their own self-defense under the same circumstances. The exact application of these laws will vary by jurisdiction, so it is important to understand the framework of each individual state.",
+        "againstProperty": "Generally speaking, the use of deadly force is limited to circumstances that reasonably present an imminent threat of serious bodily injury or death of a human being. As such, using deadly force in defense of mere personal property is almost categorically prohibited. Although most states will allow the use of some amount of force (i.e. physically restraining someone until the police arrive), the use or threatened use of deadly force in defense of mere property is generally not permitted.",
+        "againstAnimals": "In Maryland, there is no statutory law that spells out what level of force can be used against animals. This means that we would look to the common law, or case law, to see what courts have said. The jury instructions also provide insight on when force can be used against an animal. A. The common law “defense of necessity” in Maryland The defense of “necessity” is a catchall defense “that applies to all crimes except the killing of an innocent person.”Frasher v. State, 8 Md. App. 439, 447-48, 260 A.2d 656, 661 (1969); cited inState v. Crawford, 308 Md. 683 (1987). This defense “arises when an individual is faced with a choice between two evils, and one is the commission of an illegal act.Sigma Reproductive Health Center v. State, 297 Md. 660, 667, 467 A.2d 483, 491 (1983). Necessity is an “affirmative defense.” This means that the defense must put forth some evidence that would make the defense applicable for the State (prosecution) to be required to rebut the defense.See Dixon v. State, 548 U.S. 1, 809, 126 S.Ct. 2437, 165 L.Ed. 2d 299 (2006) (cited inHurd v. State, 190 Md.App. 479, 494 (2010). There are five elements (or facts) that must be analyzed before the necessity offense applies that the Court of Special Appeals discussed inMarquardt v. State: B. Maryland’s Cruelty to Animals Statute: Md. Code Ann., Crim Law § 10-606Maryland has several statutes relating to crimes against animals. For purposes of non-deadly and deadly force, the relevant statute is § 10-606 (Aggravated cruelty to animals – In general). It should be noted that this statute does not apply to lawful hunting activities in accordance with Maryland law. Section 10-606(b) prohibits intentionally: mutilating, torturing, cruelly beating, and cruelly killing an animal. It is also unlawful under this statute to cause, procure, or authorize one of these acts against an animal. Section 10-606(b)(3) further provides that “except in the case of self-defense, [a person may not] intentionally inflict bodily harm, permanent disability, or death on an animal owned or used by a law enforcement unit.” Violation of this code section is a felony that carries a maximum penalty of 3 years and/or a $5,000 fine. In addition to the maximum penalties, a court may order a defendant to undergo psychological counseling and pay all reasonable costs incurred in treating, housing, or euthanizing the animal, as well as prohibit a defendant from owning, possessing, or residing with an animal for a specified time, as determined by the court. C. Common law “self-defense” as applied to animalsIf you find yourself charged with abuse or cruelty to an animal, you may claim self-defense if you used force to prevent immediate or imminent bodily harm. There is very little authority interpreting how self-defense applies in this context."
+      },
+      "latestUpdates": [],
+      "selfDefenseImmunity": "To address the risk that those acting in lawful self-defense might be sued by their attacker, some states have implemented protective measures in the form of civil immunity statutes. These statutes serve to shield victims from certain civil lawsuits. If a state has a civil immunity statute in place, you generally enjoy protection from being sued by your attacker or attacker’s family as long as your use of force is deemed to be criminally justified. This legal framework provides a layer of protection for individuals who, in the course of defending themselves, might otherwise be subjected to additional legal challenges in the form of civil lawsuits.",
+      "selfDefenseLimitations": "COMING SOON!"
+    },
+    {
       "state": "Massachusetts",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -2898,7 +2988,7 @@
     },
     {
       "state": "Michigan",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3037,7 +3127,7 @@
     },
     {
       "state": "Minnesota",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3180,7 +3270,7 @@
     },
     {
       "state": "Mississippi",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3325,7 +3415,7 @@
     },
     {
       "state": "Missouri",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3474,7 +3564,7 @@
     },
     {
       "state": "Montana",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3612,7 +3702,7 @@
     },
     {
       "state": "Nebraska",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3759,7 +3849,7 @@
     },
     {
       "state": "Nevada",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3903,7 +3993,7 @@
     },
     {
       "state": "New Hampshire",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3923,7 +4013,7 @@
         "types": [],
         "trainingRequirements": [],
         "applicationProcess": [],
-        "description": "In New Hampshire, the regulation of pistol and revolver licenses has undergone significant changes over the years. Originally, in 1967, the state established a system requiring residents to obtain a license to carry a concealed pistol or revolver, governed by RSA 159:4. The process involved a background check and approval by the local police chief or sheriff. However, a major shift occurred in 2017 with the passage of House Bill 500, which removed the requirement for a license to carry concealed firearms for lawful gun owners, essentially making New Hampshire a permitless carry state. Despite this, the state still maintains the option for individuals to obtain a license, primarily for the purposes of reciprocity with other states' concealed carry laws. As of 2021, the landscape continues to evolve as New Hampshire remains a state characterized by its strong support for Second Amendment rights. New Hampshire law does not require applicants for a license to carry a firearm to undergo firearms safety training or otherwise demonstrate knowledge of firearms safety. The fee for the New Hampshire License to Carry is $10.00 for New Hampshire residents and the license is valid for not more than five years. The license shall be in duplicate with one copy held by the licensee and one copy held by the issuing officer. The license must be issued within 14 days of application."
+        "description": "In New Hampshire, the regulation of pistol and revolver licenses has undergone significant changes over the years. Originally, in 1967, the state established a system requiring residents to obtain a license to carry a concealed pistol or revolver, governed by RSA 159:4. The process involved a background check and approval by the local police chief or sheriff. However, a major shift occurred in 2017 with the passage of House Bill 500, which removed the requirement for a license to carry concealed firearms for lawful gun owners, essentially making New Hampshire a permitless carry state. Despite this, the state still maintains the option for individuals to obtain a license, primarily for the purposes of reciprocity with other states' concealed carry laws. As of 2021, the landscape continues to evolve as New Hampshire remains a state characterized by its strong support for Second Amendment rights. New Hampshire law does not require applicants for a license to carry a firearm to undergo firearms safety training or otherwise demonstrate knowledge of firearms safety. The fee for the New Hampshire License to Carry is $10.00 for New Hampshire residents and the license is valid for not more than five years. The license shall be in duplicate with one copy held by the licensee and one copy held by the issuing officer. The license must be issued within 14 days of application. **There is no application process for instructors who want to teach a firearms course to civilians for a pistol license in New Hampshire. There is no requirement for a firearms course in New Hampshire. As of 2017, New Hampshire is a Constitutional Carry State, and any reasonable person may carry concealed without a permit or license."
       },
       "permitlessCarryLaw": {
         "allowed": true,
@@ -4051,7 +4141,7 @@
     },
     {
       "state": "New Jersey",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -4197,7 +4287,7 @@
     },
     {
       "state": "New Mexico",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -4337,7 +4427,7 @@
     },
     {
       "state": "New York",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -4485,7 +4575,7 @@
     },
     {
       "state": "North Carolina",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -4631,7 +4721,7 @@
     },
     {
       "state": "North Dakota",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -4765,7 +4855,7 @@
     },
     {
       "state": "Ohio",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -4914,7 +5004,7 @@
     },
     {
       "state": "Oklahoma",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5060,7 +5150,7 @@
     },
     {
       "state": "Oregon",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -5177,7 +5267,7 @@
     },
     {
       "state": "Pennsylvania",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -5321,7 +5411,7 @@
     },
     {
       "state": "Rhode Island",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -5341,7 +5431,7 @@
         "types": [],
         "trainingRequirements": [],
         "applicationProcess": [],
-        "description": "Concealed carry in Rhode Island has evolved significantly over the years. In 1906, the state enacted its first law requiring individuals to obtain a license for carrying concealed weapons, which mandated a good reason for issuance. This law remained relatively unchanged until 2011, when a significant amendment shifted the focus to a \"shall issue\" system, allowing applicants to obtain a license provided they met certain criteria, such as completing a background check and safety training. In 2019, Rhode Island further updated its regulations, streamlining the application process and expanding the criteria for concealed carry permits. Despite these changes, debates surrounding concealed carry laws in the state continue, particularly regarding public safety and individual rights."
+        "description": "Concealed carry in Rhode Island has evolved significantly over the years. In 1906, the state enacted its first law requiring individuals to obtain a license for carrying concealed weapons, which mandated a good reason for issuance. This law remained relatively unchanged until 2011, when a significant amendment shifted the focus to a \"shall issue\" system, allowing applicants to obtain a license provided they met certain criteria, such as completing a background check and safety training. In 2019, Rhode Island further updated its regulations, streamlining the application process and expanding the criteria for concealed carry permits. Despite these changes, debates surrounding concealed carry laws in the state continue, particularly regarding public safety and individual rights. **There is no application process, as the firearm instructor need only be certified by the NRA, United States Revolver Association, RI law enforcement, etc. to teach a CCP course."
       },
       "permitlessCarryLaw": {
         "allowed": false,
@@ -5466,7 +5556,7 @@
     },
     {
       "state": "South Carolina",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5610,7 +5700,7 @@
     },
     {
       "state": "South Dakota",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5743,7 +5833,7 @@
     },
     {
       "state": "Tennessee",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5891,7 +5981,7 @@
     },
     {
       "state": "Texas",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6036,7 +6126,7 @@
     },
     {
       "state": "Utah",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6182,7 +6272,7 @@
     },
     {
       "state": "Vermont",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": true,
@@ -6327,7 +6417,7 @@
     },
     {
       "state": "Virginia",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6480,7 +6570,7 @@
     },
     {
       "state": "Washington",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6627,7 +6717,7 @@
     },
     {
       "state": "Washington DC",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6773,7 +6863,7 @@
     },
     {
       "state": "West Virginia",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6890,7 +6980,7 @@
     },
     {
       "state": "Wisconsin",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -7036,7 +7126,7 @@
     },
     {
       "state": "Wyoming",
-      "lastUpdated": "2026-02-20",
+      "lastUpdated": "2026-03-22",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -7172,5 +7262,6 @@
       "selfDefenseImmunity": "To address the risk that those acting in lawful self-defense might be sued by their attacker, some states have implemented protective measures in the form of civil immunity statutes. These statutes serve to shield victims from certain civil lawsuits. If a state has a civil immunity statute in place, you generally enjoy protection from being sued by your attacker or attacker’s family as long as your use of force is deemed to be criminally justified. This legal framework provides a layer of protection for individuals who, in the course of defending themselves, might otherwise be subjected to additional legal challenges in the form of civil lawsuits.",
       "selfDefenseLimitations": ""
     }
-  ]
+  ],
+  "cacheState": "changed"
 }
