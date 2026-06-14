@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-14",
   "source": "https://gunlaws.uslawshield.com/states/",
   "totalStatesScraped": 51,
   "states": [
     {
       "state": "Alabama",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -151,7 +151,7 @@
     },
     {
       "state": "Alaska",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -289,7 +289,7 @@
     },
     {
       "state": "Arizona",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -436,7 +436,7 @@
     },
     {
       "state": "Arkansas",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -583,7 +583,7 @@
     },
     {
       "state": "California",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -726,7 +726,7 @@
     },
     {
       "state": "Colorado",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -774,7 +774,6 @@
           "Missouri",
           "Montana",
           "Nebraska",
-          "Nevada",
           "New Hampshire",
           "New Mexico",
           "North Carolina",
@@ -801,6 +800,7 @@
           "Maryland",
           "Massachusetts",
           "Minnesota",
+          "Nevada",
           "New Jersey",
           "New York",
           "Oregon",
@@ -877,7 +877,7 @@
     },
     {
       "state": "Connecticut",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1023,7 +1023,7 @@
     },
     {
       "state": "Delaware",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1173,7 +1173,7 @@
     },
     {
       "state": "Florida",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1319,7 +1319,7 @@
     },
     {
       "state": "Georgia",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1466,7 +1466,7 @@
     },
     {
       "state": "Hawaii",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1613,7 +1613,7 @@
     },
     {
       "state": "Idaho",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -1754,7 +1754,7 @@
     },
     {
       "state": "Illinois",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -1902,7 +1902,7 @@
     },
     {
       "state": "Indiana",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2050,7 +2050,7 @@
     },
     {
       "state": "Iowa",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2198,7 +2198,7 @@
     },
     {
       "state": "Kansas",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2317,7 +2317,7 @@
     },
     {
       "state": "Kentucky",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2466,7 +2466,7 @@
     },
     {
       "state": "Louisiana",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2605,7 +2605,7 @@
     },
     {
       "state": "Maine",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -2750,7 +2750,7 @@
     },
     {
       "state": "Maryland",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -2840,7 +2840,7 @@
     },
     {
       "state": "Massachusetts",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -2988,7 +2988,7 @@
     },
     {
       "state": "Michigan",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3127,7 +3127,7 @@
     },
     {
       "state": "Minnesota",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3270,7 +3270,7 @@
     },
     {
       "state": "Mississippi",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3415,7 +3415,7 @@
     },
     {
       "state": "Missouri",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3564,7 +3564,7 @@
     },
     {
       "state": "Montana",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3702,7 +3702,7 @@
     },
     {
       "state": "Nebraska",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -3849,7 +3849,7 @@
     },
     {
       "state": "Nevada",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -3993,7 +3993,7 @@
     },
     {
       "state": "New Hampshire",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -4141,7 +4141,7 @@
     },
     {
       "state": "New Jersey",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -4287,7 +4287,7 @@
     },
     {
       "state": "New Mexico",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -4427,7 +4427,7 @@
     },
     {
       "state": "New York",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -4575,7 +4575,7 @@
     },
     {
       "state": "North Carolina",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -4721,7 +4721,7 @@
     },
     {
       "state": "North Dakota",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -4855,7 +4855,7 @@
     },
     {
       "state": "Ohio",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5004,7 +5004,7 @@
     },
     {
       "state": "Oklahoma",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5150,7 +5150,7 @@
     },
     {
       "state": "Oregon",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -5267,7 +5267,7 @@
     },
     {
       "state": "Pennsylvania",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -5411,7 +5411,7 @@
     },
     {
       "state": "Rhode Island",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -5556,7 +5556,7 @@
     },
     {
       "state": "South Carolina",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5580,7 +5580,7 @@
       },
       "permitlessCarryLaw": {
         "allowed": true,
-        "description": "The terms “constitutional carry” and “permitless carry” refer to states that have laws allowing individuals to carry a loaded firearm in public without requiring a license or permit. On March 7, 2024, South Carolina Governor McMaster signed H. 3594. The “South Carolina Constitutional Carry/Second Amendment Preservation Act of 2024” took effect immediately and removed the legal requirement to obtain a Concealed Weapons Permit (CWP) prior to carrying a loaded firearm in public, subject to certain restrictions."
+        "description": "The terms “constitutional carry” and “permitless carry” refer to states that have laws allowing individuals to carry a loaded firearm in public without requiring a license or permit. On March 7, 2024, South Carolina Governor McMaster signed HB 3594. The “South Carolina Constitutional Carry/Second Amendment Preservation Act of 2024” took effect immediately and removed the legal requirement to obtain a Concealed Weapons Permit (CWP) prior to carrying a loaded firearm in public, subject to certain restrictions."
       },
       "reciprocity": {
         "honorsOutOfStatePermits": true,
@@ -5700,7 +5700,7 @@
     },
     {
       "state": "South Dakota",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5833,7 +5833,7 @@
     },
     {
       "state": "Tennessee",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -5981,7 +5981,7 @@
     },
     {
       "state": "Texas",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6126,7 +6126,7 @@
     },
     {
       "state": "Utah",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6272,7 +6272,7 @@
     },
     {
       "state": "Vermont",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": true,
@@ -6417,7 +6417,7 @@
     },
     {
       "state": "Virginia",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6570,7 +6570,7 @@
     },
     {
       "state": "Washington",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6717,7 +6717,7 @@
     },
     {
       "state": "Washington DC",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": true,
         "constitutionalCarryAllowed": false,
@@ -6863,7 +6863,7 @@
     },
     {
       "state": "West Virginia",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
@@ -6980,7 +6980,7 @@
     },
     {
       "state": "Wisconsin",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": false,
@@ -7126,7 +7126,7 @@
     },
     {
       "state": "Wyoming",
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-14",
       "quickReference": {
         "magazineCapacityRestrictions": false,
         "constitutionalCarryAllowed": true,
